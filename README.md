@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently making my batchelor degree ath the [RWTH-Aachen](https://www.rwth-aachen.de/) university. I am primarily interested in Webdevelopment and theoretical computer science. Feel free to get in contact with me via [mail](mailto:contact@ondolin.de).
+I'm currently doing my bachelor degree at [RWTH-Aachen](https://www.rwth-aachen.de/) University. I am primarily interested in Web development and theoretical computer science. Feel free to get in contact with me via [mail](mailto:contact@ondolin.de).
 
 <p>
   <img src="https://raw.githubusercontent.com/Ondolin/github-stats/master/generated/overview.svg" />
